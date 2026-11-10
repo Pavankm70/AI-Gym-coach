@@ -65,7 +65,7 @@ A production-grade, research-grounded intelligent exercise coaching system that 
 
 ## 🏗️ System Architecture
 
-```mermaid
+
 flowchart TD
     subgraph Frontend ["React 19 + Vite Frontend"]
         Webcam["Native Webcam <video> (0ms Latency)"]
