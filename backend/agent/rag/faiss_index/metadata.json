@@ -1,0 +1,392 @@
+[
+  {
+    "content": "[Exercise: Biceps Curls (Dumbbell) | Topic: Biomechanics | Section: 1. Biomechanics of the Biceps Curl | Source: NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)]\n## 1. Biomechanics of the Biceps Curl\nThe biceps curl is an open-chain isolation exercise targeting the biceps brachii (long and short heads), brachialis, and brachioradialis.\nKey joint angles:\n- **Starting / Lowered Phase:** Elbow angle is extended at 160\u00b0 to 180\u00b0. Upper arms remain stationary and perpendicular to the floor.\n- **Peak Contraction / Up Phase:** Elbow angle flexes to < 50\u00b0 with full forearm supination.",
+    "metadata": {
+      "chunk_id": "biceps_curls_dumbbell_biomechanics_01",
+      "exercise": "Biceps Curls (Dumbbell)",
+      "topic": "biomechanics",
+      "section_title": "1. Biomechanics of the Biceps Curl",
+      "source_name": "NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)",
+      "citation": "Marcolin, G., et al. (2018). Differences in electromyographic activity of biceps brachii during barbell vs dumbbell curls. Journal of Sports Science & Medicine, 17(3), 475-483.",
+      "pdf_name": "Marcolin_2018_Biceps_Brachii_EMG.pdf",
+      "page_number": 475,
+      "file": "biceps_curls_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Biceps Curls (Dumbbell) | Topic: Form_Errors | Section: Error A: Torso Swinging / Momentum (\"SWINGING\") | Source: NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)]\n### Error A: Torso Swinging / Momentum (\"SWINGING\")\n- **Biomechanical Cause:** The trunk tilts backward > 15\u00b0 from the vertical plane during the concentric phase.\n- **Root Causes:** Lifting excessive weight, using lumbar hyperextension and hip thrust to bypass the sticking point.\n- **Risk:** Strain on the lower lumbar spine and drastically diminished biceps muscle tension.\n- **Correction:** Keep knees slightly soft, tuck the pelvis, brace the core, and pin shoulder blades back. The torso should remain completely static throughout the curl.",
+    "metadata": {
+      "chunk_id": "biceps_curls_dumbbell_form_errors_02",
+      "exercise": "Biceps Curls (Dumbbell)",
+      "topic": "form_errors",
+      "section_title": "Error A: Torso Swinging / Momentum (\"SWINGING\")",
+      "source_name": "NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)",
+      "citation": "Marcolin, G., et al. (2018). Differences in electromyographic activity of biceps brachii during barbell vs dumbbell curls. Journal of Sports Science & Medicine, 17(3), 475-483.",
+      "pdf_name": "Marcolin_2018_Biceps_Brachii_EMG.pdf",
+      "page_number": 476,
+      "file": "biceps_curls_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Biceps Curls (Dumbbell) | Topic: Form_Errors | Section: Error B: Elbow Drifting Forward / Outward (\"ELBOW DRIFTING\") | Source: NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)]\n### Error B: Elbow Drifting Forward / Outward (\"ELBOW DRIFTING\")\n- **Biomechanical Cause:** Elbow joint moves forward relative to the shoulder seam (drift > 0.06 normalized units).\n- **Impact:** Involves the anterior deltoid to assist the lift, shortening the moment arm on the elbow and robbing the biceps of peak tension at the top.\n- **Correction:** Imagine elbows are glued or bolted to your ribcage. Only forearms should rotate around the stationary elbow pivot.",
+    "metadata": {
+      "chunk_id": "biceps_curls_dumbbell_form_errors_03",
+      "exercise": "Biceps Curls (Dumbbell)",
+      "topic": "form_errors",
+      "section_title": "Error B: Elbow Drifting Forward / Outward (\"ELBOW DRIFTING\")",
+      "source_name": "NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)",
+      "citation": "Marcolin, G., et al. (2018). Differences in electromyographic activity of biceps brachii during barbell vs dumbbell curls. Journal of Sports Science & Medicine, 17(3), 475-483.",
+      "pdf_name": "Marcolin_2018_Biceps_Brachii_EMG.pdf",
+      "page_number": 477,
+      "file": "biceps_curls_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Biceps Curls (Dumbbell) | Topic: Camera_Setup | Section: 3. Recommended Camera Setup for Biceps Curls | Source: NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)]\n## 3. Recommended Camera Setup for Biceps Curls\n- **Angle:** Frontal or 45-degree angle.\n- **Distance:** 1.5 to 2.5 meters.\n- **Framing:** Should capture from mid-thigh up through the top of the head so both upper arm alignment and torso sway can be detected.",
+    "metadata": {
+      "chunk_id": "biceps_curls_dumbbell_camera_setup_04",
+      "exercise": "Biceps Curls (Dumbbell)",
+      "topic": "camera_setup",
+      "section_title": "3. Recommended Camera Setup for Biceps Curls",
+      "source_name": "NSCA Essentials of Strength Training and Conditioning (4th Ed.) & Marcolin et al. (2018)",
+      "citation": "Marcolin, G., et al. (2018). Differences in electromyographic activity of biceps brachii during barbell vs dumbbell curls. Journal of Sports Science & Medicine, 17(3), 475-483.",
+      "pdf_name": "Marcolin_2018_Biceps_Brachii_EMG.pdf",
+      "page_number": 478,
+      "file": "biceps_curls_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: General | Topic: Safety | Section: 1. Warm-Up Protocols and Exercise Safety | Source: ACSM Guidelines for Exercise Testing and Prescription (11th Edition) & MediaPipe Pose Architecture (Lugaresi et al., 2019)]\n## 1. Warm-Up Protocols and Exercise Safety\n- **General Warm-Up:** 5 to 10 minutes of light dynamic cardiovascular activity (jogging in place, jumping jacks) to raise core body temperature and increase tissue elasticity.\n- **Dynamic Mobility:** Focus on target joint mobility:\n  - Ankle dorsiflexion and hip openers (world's greatest stretch, deep goblet squat holds) before squats and lunges.\n  - Thoracic spine rotations, cat-camels, and band pull-aparts before shoulder presses and push-ups.\n- **Warm-Up Sets:** Perform 1 to 2 sets with 40-50% target weight before working sets to groove motor pathways.",
+    "metadata": {
+      "chunk_id": "general_safety_01",
+      "exercise": "General",
+      "topic": "safety",
+      "section_title": "1. Warm-Up Protocols and Exercise Safety",
+      "source_name": "ACSM Guidelines for Exercise Testing and Prescription (11th Edition) & MediaPipe Pose Architecture (Lugaresi et al., 2019)",
+      "citation": "American College of Sports Medicine. (2021). ACSM's guidelines for exercise testing and prescription. Wolters Kluwer.",
+      "pdf_name": "ACSM_Guidelines_11th_Ed.pdf",
+      "page_number": 112,
+      "file": "exercise_safety_and_biomechanics.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: General | Topic: Biomechanics | Section: 2. Fundamentals of 2D Vision-Based Joint Angle Measurement | Source: ACSM Guidelines for Exercise Testing and Prescription (11th Edition) & MediaPipe Pose Architecture (Lugaresi et al., 2019)]\n## 2. Fundamentals of 2D Vision-Based Joint Angle Measurement\n- **Vector Cosine Principle:** Given joint coordinates $A(x_1, y_1)$, $B(x_2, y_2)$ (vertex), and $C(x_3, y_3)$, the angle $\\theta$ at vertex $B$ is computed via:\n  $$\\vec{u} = A - B, \\quad \\vec{v} = C - B$$\n  $$\\cos(\\theta) = \\frac{\\vec{u} \\cdot \\vec{v}}{\\|\\vec{u}\\| \\|\\vec{v}\\|}, \\quad \\theta = \\arccos(\\text{clamp}(\\cos(\\theta), -1.0, 1.0))$$\n- **Camera Perspective Invariance & Parallax:** 2D angles represent projections of 3D kinematic movements onto the camera sensor plane. When movement occurs oblique to the sensor, projected angles may foreshorten. This underscores the necessity of the pre-detector Camera View Suitability Module to enforce appropriate viewpoint alignment.\n- **Hysteresis in Repetition Counting:** Finite-state machines must incorporate hysteresis bands (e.g. 155\u00b0 overhead threshold vs 95\u00b0 bottom threshold) to prevent rapid state chatter or double counting around boundary transitions.",
+    "metadata": {
+      "chunk_id": "general_biomechanics_02",
+      "exercise": "General",
+      "topic": "biomechanics",
+      "section_title": "2. Fundamentals of 2D Vision-Based Joint Angle Measurement",
+      "source_name": "ACSM Guidelines for Exercise Testing and Prescription (11th Edition) & MediaPipe Pose Architecture (Lugaresi et al., 2019)",
+      "citation": "American College of Sports Medicine. (2021). ACSM's guidelines for exercise testing and prescription. Wolters Kluwer.",
+      "pdf_name": "ACSM_Guidelines_11th_Ed.pdf",
+      "page_number": 113,
+      "file": "exercise_safety_and_biomechanics.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Lunges | Topic: Biomechanics | Section: 1. Biomechanics of the Lunge | Source: American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)]\n## 1. Biomechanics of the Lunge\nThe lunge is a unilateral compound lower-body movement targeting the quadriceps, gluteus maximus, hamstrings, and calves while challenging core and pelvic lateral stability.\nKey joint angles:\n- **Standing / Up Phase:** Front and rear legs extended at 160\u00b0 to 180\u00b0.\n- **Bottom Lunge Phase:** Front knee bends to \u2264 100\u00b0 (ideally 90\u00b0 tibiofemoral angle). Rear knee lowers directly toward the floor to approximately 90\u00b0 without crashing into the mat.\n- **Torso Alignment:** Torso remains upright (torso angle \u2265 160\u00b0 relative to vertical).",
+    "metadata": {
+      "chunk_id": "lunges_biomechanics_01",
+      "exercise": "Lunges",
+      "topic": "biomechanics",
+      "section_title": "1. Biomechanics of the Lunge",
+      "source_name": "American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)",
+      "citation": "Riemann, B. L., et al. (2012). Biomechanical comparison of forward and lateral lunges. Journal of Strength & Conditioning Research, 26(9), 2314-2321.",
+      "pdf_name": "Riemann_2012_Lunge_Kinematics.pdf",
+      "page_number": 2314,
+      "file": "lunges_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Lunges | Topic: Form_Errors | Section: Error A: Lateral Loss of Balance (\"OFF BALANCE\") | Source: American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)]\n### Error A: Lateral Loss of Balance (\"OFF BALANCE\")\n- **Biomechanical Cause:** Excessive lateral deviation of the center of mass (offset > 0.10 normalized units between shoulder midpoint and hip midpoint).\n- **Root Causes:** Stepping in a straight line (\"tightrope walking\") rather than stepping along parallel tracks (railroad tracks). Weak hip abductors (gluteus medius).\n- **Correction:** Step forward while maintaining a hip-width base of support. Look forward and engage core stabilizers.",
+    "metadata": {
+      "chunk_id": "lunges_form_errors_02",
+      "exercise": "Lunges",
+      "topic": "form_errors",
+      "section_title": "Error A: Lateral Loss of Balance (\"OFF BALANCE\")",
+      "source_name": "American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)",
+      "citation": "Riemann, B. L., et al. (2012). Biomechanical comparison of forward and lateral lunges. Journal of Strength & Conditioning Research, 26(9), 2314-2321.",
+      "pdf_name": "Riemann_2012_Lunge_Kinematics.pdf",
+      "page_number": 2315,
+      "file": "lunges_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Lunges | Topic: Form_Errors | Section: Error B: Front Knee Over-Extending Forward of the Toes | Source: American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)]\n### Error B: Front Knee Over-Extending Forward of the Toes\n- **Biomechanical Cause:** Excessive forward tibial shear causing high patellofemoral compressive force.\n- **Correction:** Step farther forward and direct descent vertically downward rather than driving forward.",
+    "metadata": {
+      "chunk_id": "lunges_form_errors_03",
+      "exercise": "Lunges",
+      "topic": "form_errors",
+      "section_title": "Error B: Front Knee Over-Extending Forward of the Toes",
+      "source_name": "American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)",
+      "citation": "Riemann, B. L., et al. (2012). Biomechanical comparison of forward and lateral lunges. Journal of Strength & Conditioning Research, 26(9), 2314-2321.",
+      "pdf_name": "Riemann_2012_Lunge_Kinematics.pdf",
+      "page_number": 2316,
+      "file": "lunges_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Lunges | Topic: Form_Errors | Section: Error C: Torso Leaning Forward | Source: American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)]\n### Error C: Torso Leaning Forward\n- **Correction:** Keep chest high, shoulders down and back, and core braced.",
+    "metadata": {
+      "chunk_id": "lunges_form_errors_04",
+      "exercise": "Lunges",
+      "topic": "form_errors",
+      "section_title": "Error C: Torso Leaning Forward",
+      "source_name": "American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)",
+      "citation": "Riemann, B. L., et al. (2012). Biomechanical comparison of forward and lateral lunges. Journal of Strength & Conditioning Research, 26(9), 2314-2321.",
+      "pdf_name": "Riemann_2012_Lunge_Kinematics.pdf",
+      "page_number": 2317,
+      "file": "lunges_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Lunges | Topic: Camera_Setup | Section: 3. Recommended Camera Setup for Lunges | Source: American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)]\n## 3. Recommended Camera Setup for Lunges\n- **Angle:** Side (sagittal) view or 45-degree angle.\n- **Distance:** 2.5 to 3.5 meters.\n- **Framing:** Full body framing showing both feet on the floor and full torso upright.",
+    "metadata": {
+      "chunk_id": "lunges_camera_setup_05",
+      "exercise": "Lunges",
+      "topic": "camera_setup",
+      "section_title": "3. Recommended Camera Setup for Lunges",
+      "source_name": "American Council on Exercise (ACE) Exercise Science & Riemann et al. (2012)",
+      "citation": "Riemann, B. L., et al. (2012). Biomechanical comparison of forward and lateral lunges. Journal of Strength & Conditioning Research, 26(9), 2314-2321.",
+      "pdf_name": "Riemann_2012_Lunge_Kinematics.pdf",
+      "page_number": 2318,
+      "file": "lunges_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Push-ups | Topic: Biomechanics | Section: 1. Biomechanics of the Push-Up | Source: American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)]\n## 1. Biomechanics of the Push-Up\nThe standard push-up is a closed-kinetic-chain horizontal pushing exercise activating the pectoralis major, anterior deltoids, triceps brachii, and rectus abdominis.\nKey joint angles:\n- **Plank / Up Phase:** Elbow angle is 160\u00b0 to 180\u00b0 (arms extended without joint jamming). The body line from shoulders to hips to ankles forms a rigid straight line (body angle > 160\u00b0).\n- **Bottom / Chest Phase:** Elbow angle decreases to \u2264 90\u00b0 as the chest approaches 2-3 inches from the ground.",
+    "metadata": {
+      "chunk_id": "push_ups_biomechanics_01",
+      "exercise": "Push-ups",
+      "topic": "biomechanics",
+      "section_title": "1. Biomechanics of the Push-Up",
+      "source_name": "American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)",
+      "citation": "Contreras, B., et al. (2012). The Biomechanics of the Push-up: Analysis of Joint Angles and Muscle Activation. Strength & Conditioning Journal, 34(5), 41-46.",
+      "pdf_name": "Contreras_2012_Biomechanics_Pushup.pdf",
+      "page_number": 41,
+      "file": "pushups_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Push-ups | Topic: Form_Errors | Section: Error A: Hip Sagging (Lumbar Hyperextension) | Source: American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)]\n### Error A: Hip Sagging (Lumbar Hyperextension)\n- **Biomechanical Cause:** The pelvis dips toward the floor (hip deviation > +0.08 normalized units), breaking the straight spinal alignment.\n- **Root Causes:** Weak transverse abdominis and gluteal muscles failing to resist lumbar extension under gravitational load.\n- **Risk:** Increases compressive shear load on lumbar vertebrae L4-S1.\n- **Correction:** Squeeze glutes and pull the belly button inward toward the spine; maintain a posterior pelvic tilt throughout the set.",
+    "metadata": {
+      "chunk_id": "push_ups_form_errors_02",
+      "exercise": "Push-ups",
+      "topic": "form_errors",
+      "section_title": "Error A: Hip Sagging (Lumbar Hyperextension)",
+      "source_name": "American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)",
+      "citation": "Contreras, B., et al. (2012). The Biomechanics of the Push-up: Analysis of Joint Angles and Muscle Activation. Strength & Conditioning Journal, 34(5), 41-46.",
+      "pdf_name": "Contreras_2012_Biomechanics_Pushup.pdf",
+      "page_number": 42,
+      "file": "pushups_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Push-ups | Topic: Form_Errors | Section: Error B: Piked Hips (Hips Too High) | Source: American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)]\n### Error B: Piked Hips (Hips Too High)\n- **Biomechanical Cause:** The hips rise significantly above the shoulder-ankle line (hip deviation < -0.08 normalized units).\n- **Root Causes:** Compensatory mechanism to reduce core load by shortening the lever arm.\n- **Correction:** Lower the hips into a true neutral plank before initiating the descent.",
+    "metadata": {
+      "chunk_id": "push_ups_form_errors_03",
+      "exercise": "Push-ups",
+      "topic": "form_errors",
+      "section_title": "Error B: Piked Hips (Hips Too High)",
+      "source_name": "American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)",
+      "citation": "Contreras, B., et al. (2012). The Biomechanics of the Push-up: Analysis of Joint Angles and Muscle Activation. Strength & Conditioning Journal, 34(5), 41-46.",
+      "pdf_name": "Contreras_2012_Biomechanics_Pushup.pdf",
+      "page_number": 43,
+      "file": "pushups_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Push-ups | Topic: Form_Errors | Section: Error C: Elbow Flare | Source: American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)]\n### Error C: Elbow Flare\n- **Biomechanical Cause:** Flaring elbows out at 90\u00b0 relative to the torso.\n- **Risk:** Increases subacromial impingement risk in the rotator cuff.\n- **Correction:** Keep elbows tucked at a 45\u00b0 to 60\u00b0 angle relative to the ribcage (\"arrowhead\" shape, not a \"T\" shape).",
+    "metadata": {
+      "chunk_id": "push_ups_form_errors_04",
+      "exercise": "Push-ups",
+      "topic": "form_errors",
+      "section_title": "Error C: Elbow Flare",
+      "source_name": "American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)",
+      "citation": "Contreras, B., et al. (2012). The Biomechanics of the Push-up: Analysis of Joint Angles and Muscle Activation. Strength & Conditioning Journal, 34(5), 41-46.",
+      "pdf_name": "Contreras_2012_Biomechanics_Pushup.pdf",
+      "page_number": 44,
+      "file": "pushups_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Push-ups | Topic: Camera_Setup | Section: 3. Recommended Camera Setup for Push-Ups | Source: American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)]\n## 3. Recommended Camera Setup for Push-Ups\n- **Angle:** Side (sagittal) view, placed at floor level or low tripod height (0.5 to 1 meter).\n- **Distance:** 2.0 to 3.0 meters away.\n- **Framing:** Full body length from head to heels must fit horizontally in the camera frame.",
+    "metadata": {
+      "chunk_id": "push_ups_camera_setup_05",
+      "exercise": "Push-ups",
+      "topic": "camera_setup",
+      "section_title": "3. Recommended Camera Setup for Push-Ups",
+      "source_name": "American College of Sports Medicine (ACSM) Exercise Guidelines & Contreras Biomechanical Studies (2012)",
+      "citation": "Contreras, B., et al. (2012). The Biomechanics of the Push-up: Analysis of Joint Angles and Muscle Activation. Strength & Conditioning Journal, 34(5), 41-46.",
+      "pdf_name": "Contreras_2012_Biomechanics_Pushup.pdf",
+      "page_number": 45,
+      "file": "pushups_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Shoulder Press | Topic: Biomechanics | Section: 1. Biomechanics of the Overhead Shoulder Press | Source: NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation]\n## 1. Biomechanics of the Overhead Shoulder Press\nThe overhead shoulder press is a compound multi-joint vertical pushing exercise targeting the anterior and lateral deltoids, clavicular pectoralis major, triceps brachii, and trapezius.\nKey joint angles:\n- **Starting / Lowered Rack Phase:** Dumbbells or barbell held at collarbone / clavicle height. Elbows bent at approximately 90\u00b0 (DOWN_THRESHOLD \u2264 95\u00b0). Wrists stacked vertically above elbows.\n- **Overhead Extension / Up Phase:** Arms press vertically until elbows reach full lockout at 155\u00b0 to 180\u00b0 overhead (UP_THRESHOLD \u2265 155\u00b0). Wrists are directly above the shoulder joint center.\n- **Back Alignment:** Spine must maintain a neutral lordotic curve (back angle \u2265 160\u00b0).",
+    "metadata": {
+      "chunk_id": "shoulder_press_biomechanics_01",
+      "exercise": "Shoulder Press",
+      "topic": "biomechanics",
+      "section_title": "1. Biomechanics of the Overhead Shoulder Press",
+      "source_name": "NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation",
+      "citation": "Saeterbakken, A. H., & Fimland, M. S. (2013). Effects of body position and loading modality on muscle activity and strength in shoulder presses. Journal of Strength & Conditioning Research, 27(7), 1824-1831.",
+      "pdf_name": "Saeterbakken_2013_Shoulder_Press_Biomechanics.pdf",
+      "page_number": 1824,
+      "file": "shoulder_press_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Shoulder Press | Topic: Form_Errors | Section: Error A: Excessive Lumbar Arching (\"Excessive Arch\") | Source: NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation]\n### Error A: Excessive Lumbar Arching (\"Excessive Arch\")\n- **Biomechanical Cause:** User leans the upper torso backward, hyperextending the lumbar spine (back angle < 140\u00b0).\n- **Root Causes:** Weak abdominal stabilizers, insufficient thoracic spine mobility, or attempting to turn the vertical press into an incline bench press using the larger sternal pectoralis major.\n- **Risk:** High facet joint compression, disc shear strain, and lower back injury.\n- **Correction:** Squeeze glutes firmly, pull the ribcage down, and tuck the pelvis. If shoulder mobility is limited, reduce the load or use a high-incline seated variation.",
+    "metadata": {
+      "chunk_id": "shoulder_press_form_errors_02",
+      "exercise": "Shoulder Press",
+      "topic": "form_errors",
+      "section_title": "Error A: Excessive Lumbar Arching (\"Excessive Arch\")",
+      "source_name": "NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation",
+      "citation": "Saeterbakken, A. H., & Fimland, M. S. (2013). Effects of body position and loading modality on muscle activity and strength in shoulder presses. Journal of Strength & Conditioning Research, 27(7), 1824-1831.",
+      "pdf_name": "Saeterbakken_2013_Shoulder_Press_Biomechanics.pdf",
+      "page_number": 1825,
+      "file": "shoulder_press_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Shoulder Press | Topic: Form_Errors | Section: Error B: Incomplete Overhead Lockout (\"Incomplete Extension\") | Source: NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation]\n### Error B: Incomplete Overhead Lockout (\"Incomplete Extension\")\n- **Biomechanical Cause:** Failing to press past 130\u00b0-140\u00b0, reversing direction before full vertical extension.\n- **Correction:** Press the dumbbells straight upward until upper arms are aligned beside the ears. Ensure wrists stay stacked over elbows.",
+    "metadata": {
+      "chunk_id": "shoulder_press_form_errors_03",
+      "exercise": "Shoulder Press",
+      "topic": "form_errors",
+      "section_title": "Error B: Incomplete Overhead Lockout (\"Incomplete Extension\")",
+      "source_name": "NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation",
+      "citation": "Saeterbakken, A. H., & Fimland, M. S. (2013). Effects of body position and loading modality on muscle activity and strength in shoulder presses. Journal of Strength & Conditioning Research, 27(7), 1824-1831.",
+      "pdf_name": "Saeterbakken_2013_Shoulder_Press_Biomechanics.pdf",
+      "page_number": 1826,
+      "file": "shoulder_press_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Shoulder Press | Topic: Form_Errors | Section: Error C: Flaring Elbows Outward Beyond the Scapular Plane | Source: NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation]\n### Error C: Flaring Elbows Outward Beyond the Scapular Plane\n- **Correction:** Keep elbows slightly forward in the scapular plane (roughly 30\u00b0 forward of the coronal plane) to reduce impingement on the supraspinatus tendon.",
+    "metadata": {
+      "chunk_id": "shoulder_press_form_errors_04",
+      "exercise": "Shoulder Press",
+      "topic": "form_errors",
+      "section_title": "Error C: Flaring Elbows Outward Beyond the Scapular Plane",
+      "source_name": "NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation",
+      "citation": "Saeterbakken, A. H., & Fimland, M. S. (2013). Effects of body position and loading modality on muscle activity and strength in shoulder presses. Journal of Strength & Conditioning Research, 27(7), 1824-1831.",
+      "pdf_name": "Saeterbakken_2013_Shoulder_Press_Biomechanics.pdf",
+      "page_number": 1827,
+      "file": "shoulder_press_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Shoulder Press | Topic: Camera_Setup | Section: 3. Recommended Camera Setup for Shoulder Press | Source: NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation]\n## 3. Recommended Camera Setup for Shoulder Press\n- **Angle:** Front-facing (frontal) or slight 3/4 oblique view.\n- **Distance:** 2.0 to 3.0 meters away.\n- **Overhead Framing Clearance:** Camera must be tilted high enough so that when arms are fully locked overhead, the hands and wrists do not clip out of the top edge of the frame.",
+    "metadata": {
+      "chunk_id": "shoulder_press_camera_setup_05",
+      "exercise": "Shoulder Press",
+      "topic": "camera_setup",
+      "section_title": "3. Recommended Camera Setup for Shoulder Press",
+      "source_name": "NSCA Guidelines & Saeterbakken & Fimland (2013) Biomechanical Evaluation",
+      "citation": "Saeterbakken, A. H., & Fimland, M. S. (2013). Effects of body position and loading modality on muscle activity and strength in shoulder presses. Journal of Strength & Conditioning Research, 27(7), 1824-1831.",
+      "pdf_name": "Saeterbakken_2013_Shoulder_Press_Biomechanics.pdf",
+      "page_number": 1828,
+      "file": "shoulder_press_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Squats | Topic: Biomechanics | Section: 1. Biomechanics of the Squat | Source: National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)]\n## 1. Biomechanics of the Squat\nThe squat is a multi-joint compound movement involving simultaneous flexion and extension of the hips, knees, and ankles.\nKey joint angles during the movement:\n- **Standing / Top Phase:** Knee angle is approximately 170\u00b0 to 180\u00b0 (full extension without joint hyperextension). Torso angle is upright (near 180\u00b0 relative to vertical).\n- **Parallel Depth:** Thighs are parallel to the floor when the crease of the hip drops level with or below the top of the patella. This corresponds to a tibiofemoral (knee) angle of \u2264 100\u00b0 (typically 80\u00b0 to 95\u00b0 for full parallel depth).\n- **Sub-Parallel Depth:** Deep squats reach knee angles of 70\u00b0 to 80\u00b0.",
+    "metadata": {
+      "chunk_id": "squats_biomechanics_01",
+      "exercise": "Squats",
+      "topic": "biomechanics",
+      "section_title": "1. Biomechanics of the Squat",
+      "source_name": "National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)",
+      "citation": "Schoenfeld, B. J. (2010). Squatting kinematics and kinetics and their application to exercise performance. Journal of Strength and Conditioning Research, 24(12), 3497-3506.",
+      "pdf_name": "Schoenfeld_2010_Squat_Kinematics.pdf",
+      "page_number": 3497,
+      "file": "squats_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Squats | Topic: Form_Errors | Section: Error A: Insufficient Depth (\"TOO HIGH\") | Source: National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)]\n### Error A: Insufficient Depth (\"TOO HIGH\")\n- **Biomechanical Cause:** User reverses direction before knee angle reaches 100\u00b0.\n- **Health / Muscle Impact:** Limits quadriceps and gluteus maximus recruitment, shifting disproportionate shear forces to the patellar tendon without full posterior chain activation.\n- **Correction:** Focus on pushing the hips back and down, allowing knees to track forward over the toes while keeping heels firmly planted. Squat until thighs are at least parallel to the floor.",
+    "metadata": {
+      "chunk_id": "squats_form_errors_02",
+      "exercise": "Squats",
+      "topic": "form_errors",
+      "section_title": "Error A: Insufficient Depth (\"TOO HIGH\")",
+      "source_name": "National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)",
+      "citation": "Schoenfeld, B. J. (2010). Squatting kinematics and kinetics and their application to exercise performance. Journal of Strength and Conditioning Research, 24(12), 3497-3506.",
+      "pdf_name": "Schoenfeld_2010_Squat_Kinematics.pdf",
+      "page_number": 3498,
+      "file": "squats_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Squats | Topic: Form_Errors | Section: Error B: Excessive Forward Torso Lean | Source: National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)]\n### Error B: Excessive Forward Torso Lean\n- **Biomechanical Cause:** Trunk angle drops below 130\u00b0 relative to the hips/thighs.\n- **Root Causes:** Weak core stabilizers, limited ankle dorsiflexion, or quad fatigue leading to a \"good morning\" squat compensation.\n- **Correction:** Maintain a proud chest, actively brace the abdominal wall (Valsalva maneuver or diaphragmatic core engagement), and look forward at a fixed spot at eye level.",
+    "metadata": {
+      "chunk_id": "squats_form_errors_03",
+      "exercise": "Squats",
+      "topic": "form_errors",
+      "section_title": "Error B: Excessive Forward Torso Lean",
+      "source_name": "National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)",
+      "citation": "Schoenfeld, B. J. (2010). Squatting kinematics and kinetics and their application to exercise performance. Journal of Strength and Conditioning Research, 24(12), 3497-3506.",
+      "pdf_name": "Schoenfeld_2010_Squat_Kinematics.pdf",
+      "page_number": 3499,
+      "file": "squats_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Squats | Topic: Form_Errors | Section: Error C: Knee Valgus (Knees Caving Inward) | Source: National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)]\n### Error C: Knee Valgus (Knees Caving Inward)\n- **Biomechanical Cause:** Adduction and internal rotation of the femur during the ascent phase.\n- **Root Causes:** Weak gluteus medius and hip abductors.\n- **Correction:** Cue \"screw your feet into the floor\" and push knees outward actively in line with the second toe throughout descent and ascent.",
+    "metadata": {
+      "chunk_id": "squats_form_errors_04",
+      "exercise": "Squats",
+      "topic": "form_errors",
+      "section_title": "Error C: Knee Valgus (Knees Caving Inward)",
+      "source_name": "National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)",
+      "citation": "Schoenfeld, B. J. (2010). Squatting kinematics and kinetics and their application to exercise performance. Journal of Strength and Conditioning Research, 24(12), 3497-3506.",
+      "pdf_name": "Schoenfeld_2010_Squat_Kinematics.pdf",
+      "page_number": 3500,
+      "file": "squats_guide.md"
+    },
+    "vector": null
+  },
+  {
+    "content": "[Exercise: Squats | Topic: Camera_Setup | Section: 3. Recommended Camera Setup for Squats | Source: National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)]\n## 3. Recommended Camera Setup for Squats\n- **Angle:** 45-degree oblique or pure side (sagittal) view.\n- **Distance:** 2.5 to 3.5 meters (8 to 11 feet) away.\n- **Framing:** Full body framing must be maintained, ensuring both ankles and the head remain within the camera frame throughout the entire descent.",
+    "metadata": {
+      "chunk_id": "squats_camera_setup_05",
+      "exercise": "Squats",
+      "topic": "camera_setup",
+      "section_title": "3. Recommended Camera Setup for Squats",
+      "source_name": "National Strength and Conditioning Association (NSCA) Guidelines & Schoenfeld Biomechanical Analysis (2010)",
+      "citation": "Schoenfeld, B. J. (2010). Squatting kinematics and kinetics and their application to exercise performance. Journal of Strength and Conditioning Research, 24(12), 3497-3506.",
+      "pdf_name": "Schoenfeld_2010_Squat_Kinematics.pdf",
+      "page_number": 3501,
+      "file": "squats_guide.md"
+    },
+    "vector": null
+  }
+]
